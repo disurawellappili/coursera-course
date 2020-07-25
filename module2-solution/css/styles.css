@@ -39,7 +39,7 @@ body{
 
 .heading{
 	font-size: 1.75em;
-	text-align: center;;
+	text-align: center;
 	font-weight: bold;
 	padding-bottom: 40px;
 }
@@ -57,7 +57,7 @@ body{
     border: 1px solid #000000;
     font-size: 1.25em;
     font-weight:bold;
-    width:30%;
+    width:130px;
     text-align:center;
 }
     /************Tablet View**************/
